@@ -11,10 +11,13 @@ h1 {
 
 .download_link {
   font-size: 16px;
-  color: Aquamarine;
   text-align: center;
 }
 
-img {
-  align-content: center;
+.download_link a {
+  color: Aquamarine;
+}
+
+.images {
+  text-align: center;
 }
